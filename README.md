@@ -40,4 +40,4 @@ To run this project locally:
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/simple-counter-app.git
+   git clone https://github.com/DevAryann/TheCounter-App.git
